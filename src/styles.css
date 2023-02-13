@@ -1,0 +1,85 @@
+body {
+  font-family: sans-serif;
+  color: #7c7c7c;
+}
+
+.searchrow {
+  text-align: center;
+}
+
+.w-50 {
+  display: inline-flex;
+}
+
+h1 {
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  height: 30px;
+  line-height: 1;
+  margin: 0;
+}
+
+h2 {
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 16px;
+  height: 20px;
+  line-height: 1;
+  list-style: none;
+}
+
+.weather-app {
+  border: 1px solid #7c7c7c;
+  border-radius: 15px;
+  padding: 30px;
+  margin: 20px;
+  max-width: 800px;
+}
+
+.currentDate {
+  font-size: 40px;
+}
+
+.row {
+  text-align: center;
+}
+
+.nowtemperature {
+  font-size: 70px;
+  font-weight: 500;
+  height: auto;
+  line-height: 1;
+  margin: 0;
+}
+
+.nowweatheremoji {
+  font-size: 80px;
+  line-height: 1;
+  margin: 0;
+}
+
+.units {
+  position: relative;
+  top: -35px;
+}
+.card-title {
+  font-size: 90%;
+}
+
+.card-text {
+  font-size: 70%;
+}
+
+.weatheremoji {
+  font-size: 200%;
+}
